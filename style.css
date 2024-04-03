@@ -212,7 +212,6 @@ video {
 }
 
 #card-container {
-    /* background-color: red; */
     width: 93vw;
     height: 70vh;
     display: flex;
@@ -223,7 +222,6 @@ video {
 
 .card {
     width: 30%;
-    /* background-color: blue; */
     border-radius: 20px;
     object-fit: cover;
     position: relative;
